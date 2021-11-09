@@ -27,8 +27,8 @@
 }
 
 body {
-	/*background-image: linear-gradient(to right,var(--secondary-color), var(--primary-color) 100%);*/
-	background-color: var(--background, #fff);
+	background-image: linear-gradient(to right,var(--secondary-color), var(--primary-color) 100%);
+	/*background-color: var(--background, #fff);*/
 	margin: 0;
 }
 
