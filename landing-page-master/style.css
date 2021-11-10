@@ -4,12 +4,8 @@
 	-moz-osx-font-smoothing: grayscale;
 	line-height: 1.15;
 	font-family: 'Roboto', sans-serif;
-	/*--background: #fafafa;
-	--text-color: #333333;
-	--text-claro: #fafafa;
-	--primary-color: #ae2633;
-	--secondary-color: rgb(39,114,185);*/
-	/*== Versión con transición de colores en el background==*/
+
+	
 	
 
 }
@@ -27,8 +23,8 @@
 }
 
 body {
-	background-image: linear-gradient(to right,var(--secondary-color), var(--primary-color) 100%);
-	/*background-color: var(--background, #fff);*/
+	
+	background-color: var(--background, #fff);
 	margin: 0;
 }
 
